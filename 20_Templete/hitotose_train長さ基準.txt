@@ -1,0 +1,15 @@
+length=16　新幹線車両級・25m
+length=14　標準気動車・21.5m級
+length=13　標準電車・20m級
+length=12  19m級
+length=11　18m級
+length=10　15～16m級
+length= 9  14m級
+length= 8  12～13m級
+length= 7  11m級
+length= 6  9～10m級
+length= 5　7～8m級
+length= 4　6m級
+length= 3  4～5m級
+length= 2　3m級
+length= 1　1～2m級

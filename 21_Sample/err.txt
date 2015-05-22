@@ -1,0 +1,9 @@
+writing invidual files to ./
+   reading file ./basebuilding.dat
+   writing file ./building.[H]RES_TEST.pak
+      packing building.[H]RES_TEST
+   writing file ./building.[H]RES_TEST2.pak
+      packing building.[H]RES_TEST2
+   reading file ./baserail.dat
+   writing file ./way.[H]BaseRail.pak
+      packing way.[H]BaseRail

@@ -1,9 +1,10 @@
 writing invidual files to ./
-   reading file ./basebuilding.dat
-   writing file ./building.[H]RES_TEST.pak
-      packing building.[H]RES_TEST
-   writing file ./building.[H]RES_TEST2.pak
-      packing building.[H]RES_TEST2
    reading file ./baserail.dat
    writing file ./way.[H]BaseRail.pak
       packing way.[H]BaseRail
+   reading file ./hitotose_platform.dat
+   writing file ./building.[H]TrainStop.pak
+      packing building.[H]TrainStop
+   reading file ./wirebase.dat
+   writing file ./way-object.[H]overhead_wire.pak
+      packing way-object.[H]overhead_wire

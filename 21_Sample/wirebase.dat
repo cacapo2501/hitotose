@@ -1,5 +1,5 @@
 obj=way-object
-name=htts_overhead_wire
+name=[H]overhead_wire
 copyright=Takamaro
 waytype=track
 own_waytype=electrified_track
@@ -8,7 +8,7 @@ maintenance=0
 topspeed=120
 intro_year=1900
 retire_year=2050
-icon=> icon.0.0
+icon=> [H]OverHeadWire.6.0
 cursor=cursor.0.0
 FrontImage[S]=[H]OverHeadWire.0.0
 FrontImage[W]=[H]OverHeadWire.0.1

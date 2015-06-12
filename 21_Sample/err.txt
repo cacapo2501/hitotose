@@ -8,3 +8,6 @@ writing invidual files to ./
    reading file ./wirebase.dat
    writing file ./way-object.[H]overhead_wire.pak
       packing way-object.[H]overhead_wire
+   reading file ./[H]Tunnel_Portal_base.dat
+   writing file ./tunnel.[H]TunnelBase.pak
+      packing tunnel.[H]TunnelBase
